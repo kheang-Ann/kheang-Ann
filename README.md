@@ -8,8 +8,6 @@
 I'm a developer with a focus on **mobile application development** and **algorithmic/automated trading systems**. I enjoy turning complex problems into simple, well-structured solutions — whether that's a polished Flutter app or a precision-engineered trading strategy.
 
 - 📱 Building Flutter apps with clean state management patterns.
-- 📈 Developing automated trading systems for XAUUSD and forex markets.
-- 🔧 Refining ICT-based Expert Advisors on MetaTrader 5.
 - ⚡ *Building clean software, one commit at a time.*
 
 ---
