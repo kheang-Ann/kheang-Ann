@@ -1,62 +1,68 @@
-<!-- Header -->
-<div align="center">
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=kheang-Ann&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20|%20Algorithmic%20Systems&descAlignY=60&descSize=20" />
+</p>
 
-# kheang-Ann
-
-**Full-Stack Developer · Mobile · Algorithmic Systems**
-
-*Building clean software, one commit at a time.*
-
-</div>
-
----
-
-### About
-
+<!-- About Me -->
+## 💫 About Me
 I'm a developer with a focus on **mobile application development** and **algorithmic/automated trading systems**. I enjoy turning complex problems into simple, well-structured solutions — whether that's a polished Flutter app or a precision-engineered trading strategy.
 
----
-
-### Tech Stack
-
-**Mobile**
-`Flutter` `Dart` `Provider` `SQLite` `SharedPreferences`
-
-**Backend & Tools**
-`Python` `MQL5` `Pine Script` `REST APIs` `Git`
-
-**Interests**
-`Algorithmic Trading` `Forex & Commodity Markets` `State Management` `Clean Architecture`
+- 📱 Building Flutter apps with clean state management patterns.
+- 📈 Developing automated trading systems for XAUUSD and forex markets.
+- 🔧 Refining ICT-based Expert Advisors on MetaTrader 5.
+- ⚡ *Building clean software, one commit at a time.*
 
 ---
 
-### What I'm Working On
+## 🚀 Tech Stack
 
-- 📱 Building Flutter apps with clean state management patterns
-- 📈 Developing automated trading systems for XAUUSD and forex markets
-- 🔧 Refining ICT-based Expert Advisors on MetaTrader 5
+### Mobile & Frontend
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,sqlite)](https://skillicons.dev)
 
----
+### Backend & Trading Systems
+[![My Skills](https://skillicons.dev/icons?i=python,md,fastapi)](https://skillicons.dev)
+*(Note: MQL5 & Pine Script are part of my core trading automation toolkit)*
 
-### GitHub Stats
-
-<div align="center">
-
-![kheang-Ann's GitHub stats](https://github-readme-stats.vercel.app/api?username=kheang-Ann&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kheang-Ann&layout=compact&hide_border=true&theme=default)
-
-</div>
+### Tools & Others
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 ---
 
-### Get In Touch
+## 📂 Featured Projects
 
-I'm always open to interesting projects and collaborations.
-
-[![GitHub](https://img.shields.io/badge/GitHub-kheang--Ann-black?style=flat-square&logo=github)](https://github.com/kheang-Ann)
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Music App Frontend** | A modern and responsive music application UI. | `Flutter` `Dart` | [View Project](https://github.com/Do-Davin/music_app_frontend.git) |
+| **Hotel Booking System** | Comprehensive system for managing hotel reservations. | `Collaboration` | [View Project](https://github.com/Sokleap-SAM/Hotel-Booking-System.git) |
+| **PacMan Project** | A classic PacMan game implementation. | `Game Dev` | [View Project](https://github.com/kheang-Ann/PacMan_project.git) |
+| **RTC-KP** | Real-time communication/project specific system. | `System` | [View Project](https://github.com/kheang-Ann/RTC-KP.git) |
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kheang-Ann&theme=onedark&no-frame=true&column=4" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kheang-Ann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheang-Ann&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheang-Ann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/kheang-Ann">
+    <img src="https://img.shields.io/badge/GitHub-kheang--Ann-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 <div align="center">
 <sub>Updated · 2026</sub>
