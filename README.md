@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=kheang-Ann&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20|%20Algorithmic%20Systems&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=kheang-Ann&fontSize=70&animation=fadeIn&fontAlignY=35&descSize=20" />
 </p>
 
 <!-- About Me -->
