@@ -16,17 +16,13 @@ I'm a developer with a focus on **mobile application development** and **algorit
 
 ## 🚀 Tech Stack
 
-### Mobile & Frontend
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,vue)](https://skillicons.dev)
+| Mobile & Frontend | Backend |
+| :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=flutter,dart,vue)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nestjs,kubernetes,docker)](https://skillicons.dev) |
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nestjs,kubernetes,docker)](https://skillicons.dev)
-
-### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
-
-### Database
-[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev)
+| Tools & Others | Database |
+| :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev) |
 
 </div>
 
