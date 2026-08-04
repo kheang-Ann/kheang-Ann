@@ -22,7 +22,7 @@ I'm a developer with a focus on **mobile application development** and **algorit
 *(Note: MQL5 & Pine Script are part of my core trading automation toolkit)*
 
 ### Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
