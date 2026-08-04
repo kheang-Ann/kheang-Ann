@@ -12,12 +12,14 @@ I'm a developer with a focus on **mobile application development** and **algorit
 
 ---
 
+<div align="center">
+
 ## 🚀 Tech Stack
 
 ### Mobile & Frontend
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,vue)](https://skillicons.dev)
 
-### Backend  
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=nestjs,kubernetes,docker)](https://skillicons.dev)
 
 ### Tools & Others
@@ -25,6 +27,9 @@ I'm a developer with a focus on **mobile application development** and **algorit
 
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev)
+
+</div>
+
 ---
 
 ## 📂 Featured Projects
