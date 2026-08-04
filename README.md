@@ -15,10 +15,10 @@ I'm a developer with a focus on **mobile application development** and **algorit
 ## 🚀 Tech Stack
 
 ### Mobile & Frontend
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,sqlite,Vue.js)](https://skillicons.dev)
 
-### Backend & Trading Systems
-[![My Skills](https://skillicons.dev/icons?i=python,md,fastapi)](https://skillicons.dev)
+### Backend  
+[![My Skills](https://skillicons.dev/icons?i=Nest.js)](https://skillicons.dev)
 *(Note: MQL5 & Pine Script are part of my core trading automation toolkit)*
 
 ### Tools & Others
