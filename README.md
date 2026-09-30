@@ -23,7 +23,7 @@ I'm a software engineer with a focus on **full stack development**. I enjoy turn
 | **Mobile & Frontend** | [![My Skills](https://skillicons.dev/icons?i=flutter,dart,vue)](https://skillicons.dev) |
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=nestjs,kubernetes,docker)](https://skillicons.dev) |
 | **Tools & Others** | [![My Skills](https://skillicons.dev/icons?i=gitlab,github,vscode)](https://skillicons.dev) |
-| **Database** | [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev) |
+| **Database** | [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb)](https://skillicons.dev) |
 | **Deployment** | [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
 
 </div>
