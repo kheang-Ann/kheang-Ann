@@ -5,9 +5,11 @@
 
 <!-- About Me -->
 ## 💫 About Me
-I'm a developer with a focus on **mobile application development** and **algorithmic/automated trading systems**. I enjoy turning complex problems into simple, well-structured solutions — whether that's a polished Flutter app or a precision-engineered trading strategy.
+I'm a software engineer with a focus on **full stack development**. I enjoy turning complex problems into simple, well-structured solutions — whether that's a polished Flutter app or a precision-engineered trading strategy.
 
 - 📱 Building Flutter apps with clean state management patterns.
+- 📱 Building Vue.js web with clean.
+- 📱 Nest.js as a backend.
 - ⚡ *Building clean software, one commit at a time.*
 
 ---
@@ -22,6 +24,7 @@ I'm a developer with a focus on **mobile application development** and **algorit
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=nestjs,kubernetes,docker)](https://skillicons.dev) |
 | **Tools & Others** | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev) |
 | **Database** | [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev) |
+| **Deployment** | [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev) |
 
 </div>
 
