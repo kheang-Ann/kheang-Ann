@@ -48,8 +48,13 @@ I'm a software engineer with a focus on **full stack development**. I enjoy turn
   <a href="https://github.com/kheang-Ann">
     <img src="https://img.shields.io/badge/GitHub-kheang--Ann-black?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/kheang-ann-a7242b281">
+    <img src="https://img.shields.io/badge/LinkedIn-kheang--Ann-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 <div align="center">
-<sub>Updated · 2026</sub>
+  <sub>Updated · 2026</sub>
 </div>
+
+
